@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "306225543145",
+    "project_id": "bmw-flutter-20782",
+    "storage_bucket": "bmw-flutter-20782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306225543145:android:94c14fbe908713aea47d78",
+        "android_client_info": {
+          "package_name": "lk.nidarshana.bmw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306225543145-03sg7p68dqn6ffpbsevdt3g9m21e3uu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8PS6lyPE74LK6G7rgx3kRE-vDWK1xRM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306225543145-03sg7p68dqn6ffpbsevdt3g9m21e3uu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306225543145-044akq56bq2qn485b2e6vkuq5417cm5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerceApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
